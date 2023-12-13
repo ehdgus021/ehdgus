@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+}
+
+img{
+    float:right;
+}
+
+p {
+ color:yellow
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+ font-family: sans-serif;
+}
+
+
+img{
+    float:right;
+    width: auto ;
+    height:auto;
+    margin: auto;
+    border-color: black;
+    border-width: auto;
+    border-style: solid;
+    border-radius: auto;
+
+}
+

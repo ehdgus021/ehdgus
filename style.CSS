@@ -36,10 +36,10 @@ h5{
 
 
 
-img{
+img{ 
     float:right;
-    width: auto ;
-    height:auto;
+    width:300px ;
+    height: 200px;;
     margin: auto;
     border-color: black;
     border-width: auto;

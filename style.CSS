@@ -37,4 +37,14 @@ h5{
 
 
 
+img{ 
+    float:middle;
+    width:400px ;
+    height: 100px;;
+    margin: auto;
+    border-color: black;
+    border-width: auto;
+    border-style: solid;
+    border-radius: auto;
 
+}
